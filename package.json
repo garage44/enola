@@ -20,7 +20,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@garage44/common": "^1.0.2",
-    "html-entities": "^2.5.2"
+    "@garage44/common": "latest"
   }
 }
